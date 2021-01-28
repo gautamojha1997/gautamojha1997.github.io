@@ -5,15 +5,15 @@
 ### Projects
 
 [Hadoop-Map-Reduce on DBLP dataset](https://github.com/gautamojha1997/Hadoop-Map-Reduce)
-<img src="images/hadoop.PNG?raw=true"/>
+<img src="images/hadoop.png?raw=true"/>
 
 ---
 [CLoud-Simulator-using-cloudsimplus](https://github.com/gautamojha1997/CLoud-Simulator-using-cloudsimplus)
-<img src="images/cloudsim.PNG?raw=true"/>
+<img src="images/cloudsim.png?raw=true"/>
 
 ---
 [Chord-and-CAN-algorithm-using-Akka-Framework](https://github.com/gautamojha1997/Chord-and-CAN-algorithm-using-Akka-Framework)
-<img src="images/akka.PNG?raw=true"/>
+<img src="images/akka.png?raw=true"/>
 
 ---
 
