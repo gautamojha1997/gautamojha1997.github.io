@@ -5,7 +5,7 @@
 ### Projects
 
 [Hadoop-Map-Reduce on DBLP dataset](https://github.com/gautamojha1997/Hadoop-Map-Reduce)
-<img src="images/hadoop.png?raw=true"/>
+<a href="https://www.youtube.com/watch?v=Bf9jDGrR2IQ&lc=UgwukfyrfNnX-BotE094AaABAg">
 
 ---
 [CLoud-Simulator-using-cloudsimplus](https://github.com/gautamojha1997/CLoud-Simulator-using-cloudsimplus)
