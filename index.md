@@ -2,28 +2,25 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Hadoop-Map-Reduce on DBLP dataset](https://github.com/gautamojha1997/Hadoop-Map-Reduce)
+<img src="images/hadoop.PNG?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[CLoud-Simulator-using-cloudsimplus](https://github.com/gautamojha1997/CLoud-Simulator-using-cloudsimplus)
+<img src="images/cloudsim.PNG?raw=true"/>
+
+---
+[Chord-and-CAN-algorithm-using-Akka-Framework](https://github.com/gautamojha1997/Chord-and-CAN-algorithm-using-Akka-Framework)
+<img src="images/akka.PNG?raw=true"/>
 
 ---
 
-### Category Name 2
+### Project Demo on AWS
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Hadoop-Map-Reduce on DBLP dataset](https://www.youtube.com/watch?v=Bf9jDGrR2IQ&lc=UgwukfyrfNnX-BotE094AaABAg)
+- [Chord-and-CAN-algorithm-using-Akka-Framework](https://www.youtube.com/watch?v=nUiLzY_UcdI&feature=youtu.be)
 
 ---
 
